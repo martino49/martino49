@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4AA&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Martin+Omondo;Full-Stack+JavaScript+Developer;Node.js+%2B+React+%2B+TypeScript;Building+custom+web+applications" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4AA&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Martin+Omondo;Full-Stack+JavaScript+Developer;Node.js+%2B+React+%2B+TypeScript;System+Architecture+%26+Design;Building+production-ready+apps;Founder+of+Centrosof" alt="Typing SVG">
   </a>
 </p>
 
@@ -90,7 +90,6 @@ Founder of [**Centrosof**](https://centrosof.vercel.app) — a full-stack softwa
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=superomosh94&theme=radical&background=161B22&hide_border=true&border_radius=6" width="49%">
-  <img src="https://github-profile-trophy.vercel.app/?username=superomosh94&theme=radical&no-bg=true&no-frame=true&row=2&column=4" width="49%">
 </p>
 
 <p align="center">
