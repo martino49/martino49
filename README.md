@@ -1,236 +1,123 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,9&height=220&section=header&text=Martin%20Omondo&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Centrosof&descAlignY=55&descSize=22" width="100%">
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4AA&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Martin+Omondo;Full-Stack+JavaScript+Developer;Node.js+%2B+React+%2B+TypeScript;Building+custom+web+applications" alt="Typing SVG">
+  </a>
+</p>
 
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Martin;Full+Stack+Developer;Cloud+Architect;Problem+Solver;Welcome+to+my+journey)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="80%">
-</div>
-
-<h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;">
-  🚀 Crafting <span style="color:#00bcd4;">Digital Experiences</span> That Inspire 🌟
-</h1>
-
-<div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="80%">
-</div>
-
-## 💫 My Story & Passion
-
-> "I don't just write code – I craft digital experiences that touch lives and transform businesses. Every line of code carries a story, every architecture decision holds a purpose, and every deployed application represents a dream realized."
-
-### 🌟 Why I Do What I Do
-
-I believe technology should **feel magical** – seamless, intuitive, and empowering. That moment when a user interacts with something I've built and their eyes light up with that "wow" feeling? That's my fuel. That's why I pour my heart into every project, whether it's a simple landing page or a complex cloud infrastructure.
-
-### 🎯 My Mission
-
-To bridge the gap between **vision and reality**, transforming abstract ideas into tangible digital solutions that not only function flawlessly but also delight users and drive meaningful impact. I'm here to be the technical partner who understands your dreams and has the skills to bring them to life.
-
-### ❤️ What Drives Me
-
-- **Creating solutions that matter** – not just code, but experiences that solve real problems
-- **The thrill of innovation** – pushing boundaries and exploring what's possible
-- **Empowering businesses** through technology that scales and adapts
-- **Building relationships** – because great software starts with understanding people
-- **Continuous growth** – staying at the forefront of technology to serve you better
-
-### 🛠️ My Approach
-
-I blend **technical excellence** with **creative problem-solving**, ensuring that every solution is not just technically sound but also strategically aligned with your goals. I'm not just building for today – I'm architecting for tomorrow.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/superomosh94?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/github/stars/superomosh94?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Open%20For%20Work-22c55e?style=for-the-badge&logo=openbadges&logoColor=white">
+  <img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white">
+</p>
 
 ---
 
-## 🎯 Professional Excellence
+### About
 
-### 🔧 Core Competencies
-- **Full Stack Mastery:** Crafting beautiful frontends with robust backends that work in perfect harmony
-- **Cloud Architecture:** Designing scalable, resilient infrastructures that grow with your business
-- **API Craftsmanship:** Building secure, efficient bridges between systems and services
-- **Strategic Thinking:** Aligning technical solutions with business objectives for maximum impact
+I build full-stack web applications from concept to deployment — handling system architecture, database design, API development, and frontend implementation. I focus on clean, maintainable code and automated testing to deliver reliable software.
 
-### 🌱 Current Evolution
-- Mastering cloud-native architectures and microservices patterns
-- Exploring AI/ML integration to create smarter, more intuitive applications
-- Enhancing security protocols to protect what matters most – your data and users
-- Deepening expertise in DevOps practices for seamless delivery
+My experience spans finance, agriculture, education, and AI — building production systems with user authentication, payment processing, real-time communication, and multi-tenant architecture. I work primarily with the **PERN stack** (PostgreSQL, Express, React, Node.js) plus MySQL, Python, and TypeScript.
 
-### 🤝 Partnership Philosophy
-I thrive on collaborations where:
-- Innovation meets purpose
-- Technology serves humanity
-- We build solutions that make a difference
-- Every challenge becomes an opportunity for growth
+Founder of [**Centrosof**](https://centrosof.vercel.app) — a full-stack software engineering brand delivering custom platforms for businesses.
 
-### 💡 My Promise
-When you work with me, you get more than a developer – you get a **strategic partner** who:
-- Listens deeply to understand your vision
-- Communicates clearly throughout the journey
-- Delivers excellence with integrity
-- Cares about your success as much as you do
+- Open to freelance projects, contract work, and full-time roles
+- Based in Nairobi, Kenya
+- Building since 2023
 
 ---
 
-## 🚀 Let's Create Magic Together
+### Currently Building
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🎨_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://martin-navy.vercel.app/)
-[![Personal Brand](https://img.shields.io/badge/🌟_My_Brand_Story-0077B5?style=for-the-badge&logo=storybook&logoColor=white)](https://devvoxa.vercel.app/)
-
-</div>
+- **Centrosof platforms** — Multi-tenant SaaS suite for finance, agriculture, and education. Focus on reusable architecture, automated deployment, and production reliability.
+- **coach-AI v2** — Upgrading the recommendation engine with real-time data ingestion, batch import pipelines, and improved prediction accuracy.
+- **sukit-v1 enterprise** — Productionizing a marketplace monorepo with Turbo build system, Prisma ORM, and CI/CD deployment.
 
 ---
 
-## 📞 Let's Start a Conversation
+### How I Work
 
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/💬_Let's_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/kus9ba)
-[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omondo94@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_View_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://martin-navy.vercel.app/)
-
-</div>
-
-*"The best collaborations start with a simple conversation. Let's discuss how we can bring your vision to life."*
+- **Full ownership** — I take projects from requirements through deployment and maintenance
+- **Testing-first** — Unit tests, integration tests, and QA before shipping
+- **CI/CD pipelines** — Automated builds, linting, and deployment via GitHub Actions
+- **Clean architecture** — Modular code, meaningful structure, documented APIs
+- **Collaboration** — Git-based workflow, code reviews, clear communication
 
 ---
 
-<div align="center">
+### Projects
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=12F12D&background=000000FA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Architect;Building+Scalable+Applications;Problem+Solver+Extraordinaire)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 💻 My Digital Toolbox
-
-### Frontend & Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-### Infrastructure & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+| Project | Tech | Highlights |
+| :--- | :--- | :--- |
+| [**sukit-v1**](https://github.com/superomosh94/sukit-v1) | ![Turbo](https://img.shields.io/badge/Turbo-000?style=flat-square&logo=turborepo&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Multi-tenant SaaS monorepo with marketplace engine, enterprise OS modules, docs site. Designed for horizontal scaling. |
+| [**FinMate**](https://github.com/superomosh94/FinMate) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | Finance management system with RBAC (Super Admin → Team Member), expense tracking, budget planning, lending ledger, savings goals. JWT auth + rate limiting. |
+| [**edu-lms**](https://github.com/superomosh94/edu-lms) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Production LMS with 5 user roles, assignment submissions, attendance tracking, payment processing, grading engine, audit logging, CSV exports. |
+| [**AgroLink**](https://github.com/superomosh94/AgroLink) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Agricultural marketplace with WebSocket-powered real-time chat, product categories, user reviews, and full role management. |
+| [**coach-AI**](https://github.com/superomosh94/coach-AI) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq AI](https://img.shields.io/badge/Groq%20AI-F97316?style=flat-square&logoColor=white) | AI coaching assistant with Python recommendation engine, Node.js data scraper, batch import pipeline, and duplicate detection. |
 
 ---
 
-## ☕ Support the Journey
+### Tech Stack
 
-<div align="center">
+**Frontend**
 
-If my work inspires you and you'd like to support my mission to create meaningful digital experiences:
+![skillicons.dev](https://skillicons.dev/icons?i=js,ts,react,tailwind,vite&theme=dark&perline=5)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Support_My_Journey-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://martin-coffee-paystack.vercel.app/)
+**Backend & API**
 
-</div>
+![skillicons.dev](https://skillicons.dev/icons?i=nodejs,express,python&theme=dark&perline=3)
 
-*Every coffee fuels another line of code, another innovation, another dream brought to life.*
+**Database & ORM**
 
----
+![skillicons.dev](https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark&perline=3)
 
-## 📊 My Coding Journey
+**DevOps & Tools**
 
-<div align="center">
-
-| | |
-|:---:|:---:|
-| [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=superomosh94&show_icons=true&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/superomosh94) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superomosh94&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/superomosh94) |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=superomosh94&theme=radical&background=0D1117&hide_border=true)](https://git.io/streak-stats) | [![Trophies](https://github-profile-trophy.vercel.app/?username=superomosh94&theme=radical&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/superomosh94) |
-
-</div>
+![skillicons.dev](https://skillicons.dev/icons?i=docker,git,githubactions,vercel,figma&theme=dark&perline=5)
 
 ---
 
-## 📈 Building Every Day
+### GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=superomosh94&show_icons=true&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true&border_radius=6" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superomosh94&layout=compact&theme=radical&hide_border=true&border_radius=6&langs_count=8" width="49%">
+</p>
 
-[![Martin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=superomosh94&theme=react-dark&hide_border=true&area=true&custom_title=Martin's%20Development%20Journey)](https://github.com/superomosh94)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=superomosh94&theme=radical&background=161B22&hide_border=true&border_radius=6" width="49%">
+  <img src="https://github-profile-trophy.vercel.app/?username=superomosh94&theme=radical&no-bg=true&no-frame=true&row=2&column=4" width="49%">
+</p>
 
-</div>
-
----
-
-## 🧠 Daily Inspiration
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=superomosh94&theme=react-dark&hide_border=true&area=true" width="95%">
+</p>
 
 ---
 
-## 📊 Commitment in Code
+### Let's Connect
 
-<div align="center">
-
-### 🎯 My Development Activity
-
-To view my real-time contribution graph and coding activity, please visit my GitHub profile directly:
-
-[![View Full GitHub Profile](https://img.shields.io/badge/📊_View_Full_Activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/superomosh94)
-
-*Note: For the most accurate and up-to-date contribution visualization, GitHub's native activity graph provides the best experience.*
-
-</div>
+<p align="center">
+  <a href="https://matino.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:omondo94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://centrosof.vercel.app"><img src="https://img.shields.io/badge/Centrosof-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://martin-coffee-paystack.vercel.app/">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
 
-## 🌟 Let's Build Something Extraordinary Together
-
-**Your vision + My expertise = Magic waiting to happen**
+<p align="center">
+  <strong>Let's Build Something Extraordinary Together</strong><br>
+  Your vision + My expertise = Magic waiting to happen
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
-
----
-
-*"Great software isn't just about code – it's about understanding dreams and building bridges to make them real."*
