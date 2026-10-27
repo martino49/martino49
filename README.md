@@ -1,122 +1,39 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,9&height=220&section=header&text=Martin%20Omondo&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Centrosof&descAlignY=55&descSize=22" width="100%">
-</p>
+# Hi, I'm Martin Omondo
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4AA&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Martin+Omondo;Full-Stack+JavaScript+Developer;Node.js+%2B+React+%2B+TypeScript;System+Architecture+%26+Design;Building+production-ready+apps;Founder+of+Centrosof" alt="Typing SVG">
-  </a>
-</p>
+**Full-Stack Web & Android Developer** â€” Node.js Â· React Â· TypeScript Â· Kotlin
+**Nairobi, Kenya** Â· Open to work
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/superomosh94?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/github/stars/superomosh94?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Open%20For%20Work-22c55e?style=for-the-badge&logo=openbadges&logoColor=white">
-  <img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white">
-</p>
+I build full-stack applications from database schema to deployment: role-based systems, payment integrations, real-time features, and Android apps. Everything below is live or readable â€” no tutorial clones.
 
----
+**Targeting:** full-time software engineering roles with international teams. I track the skills I'm building toward that publicly at [martino49.github.io](https://martino49.github.io) instead of claiming years I can't back up.
 
-### About
+## Shipped to production
 
-I build full-stack web applications from concept to deployment — handling system architecture, database design, API development, and frontend implementation. I focus on clean, maintainable code and automated testing to deliver reliable software.
+| Project | Stack | What it proves |
+|---|---|---|
+| [**FinMate**](https://fin-mate-three.vercel.app) Â· [source](https://github.com/martino49/FinMateV2) | Node.js, Express, MySQL, EJS, JWT | 5-role RBAC with permission matrix and guarded routes, auto-migrating schema, live on Vercel |
+| [**EduLMS**](https://edulms-iota.vercel.app) Â· [source](https://github.com/martino49/EduLMS) | Node.js, Express, MySQL, Jest | Production LMS: courses, grading, attendance, fees, audit log â€” Jest + supertest suite, helmet CSP, rate-limited auth |
+| [**Cdely**](https://github.com/martino49/cdely) | Node.js, Socket.io, M-Pesa, Paystack | Multi-vendor commerce: 4 roles, 30+ tables, Daraja STK checkout, real-time order tracking |
+| [**FSPEDX**](https://github.com/martino49/FSPEDX) | Kotlin, MVVM, Room | Android app with 30+ working features: RAM/thermal tuning, FPS overlays, touch heatmaps |
 
-My experience spans finance, agriculture, education, and AI — building production systems with user authentication, payment processing, real-time communication, and multi-tenant architecture. I work primarily with the **PERN stack** (PostgreSQL, Express, React, Node.js) plus MySQL, Python, and TypeScript.
+Also: [AgroLink](https://github.com/martino49/AgroLink) â€” real-time marketplace Â· [LiteLink](https://github.com/martino49/LiteLink) â€” self-hosted PCâ†”Android bridge Â· [Portfolio source](https://github.com/martino49/martino49.github.io) â€” React 19, TypeScript, Vite, Tailwind v4.
 
-Founder of [**Centrosof**](https://centrosof.vercel.app) — a full-stack software engineering brand delivering custom platforms for businesses.
+## How I work
 
-- Open to freelance projects, contract work, and full-time roles
-- Based in Nairobi, Kenya
-- Building since 2023
+- **Production-first:** Vercel, Render, AlwaysData â€” deployed, then maintained
+- **Tested:** unit and integration tests (Jest + supertest), lint and typecheck wired into CI on every push
+- **Real integrations, not mocks:** M-Pesa Daraja STK, Paystack, PayPal, Stripe
+- **Git-native:** feature branches, meaningful commits, PR review with collaborators
 
----
+## What I'm building toward
 
-### Currently Building
+Two years of hands-on building means I show progress, not adjectives. Active work, documented with dates on my [portfolio](https://martino49.github.io):
 
-- **Centrosof platforms** — Multi-tenant SaaS suite for finance, agriculture, and education. Focus on reusable architecture, automated deployment, and production reliability.
-- **coach-AI v2** — Upgrading the recommendation engine with real-time data ingestion, batch import pipelines, and improved prediction accuracy.
-- **sukit-v1 enterprise** — Productionizing a marketplace monorepo with Turbo build system, Prisma ORM, and CI/CD deployment.
+- Data structures & algorithms â€” a public solutions repo with dated commits
+- Deepening OOP and design patterns on existing backends
+- Dockerized services end to end
+- Documenting an AI-assisted development workflow â€” where it helps in a full-stack codebase and where it costs time
 
----
+## Get in touch
 
-### How I Work
-
-- **Full ownership** — I take projects from requirements through deployment and maintenance
-- **Testing-first** — Unit tests, integration tests, and QA before shipping
-- **CI/CD pipelines** — Automated builds, linting, and deployment via GitHub Actions
-- **Clean architecture** — Modular code, meaningful structure, documented APIs
-- **Collaboration** — Git-based workflow, code reviews, clear communication
-
----
-
-### Projects
-
-| Project | Tech | Highlights |
-| :--- | :--- | :--- |
-| [**sukit-v1**](https://github.com/superomosh94/sukit-v1) | ![Turbo](https://img.shields.io/badge/Turbo-000?style=flat-square&logo=turborepo&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Multi-tenant SaaS monorepo with marketplace engine, enterprise OS modules, docs site. Designed for horizontal scaling. |
-| [**FinMate**](https://github.com/superomosh94/FinMate) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | Finance management system with RBAC (Super Admin → Team Member), expense tracking, budget planning, lending ledger, savings goals. JWT auth + rate limiting. |
-| [**edu-lms**](https://github.com/superomosh94/edu-lms) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Production LMS with 5 user roles, assignment submissions, attendance tracking, payment processing, grading engine, audit logging, CSV exports. |
-| [**AgroLink**](https://github.com/superomosh94/AgroLink) | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Agricultural marketplace with WebSocket-powered real-time chat, product categories, user reviews, and full role management. |
-| [**coach-AI**](https://github.com/superomosh94/coach-AI) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq AI](https://img.shields.io/badge/Groq%20AI-F97316?style=flat-square&logoColor=white) | AI coaching assistant with Python recommendation engine, Node.js data scraper, batch import pipeline, and duplicate detection. |
-
----
-
-### Tech Stack
-
-**Frontend**
-
-![skillicons.dev](https://skillicons.dev/icons?i=js,ts,react,tailwind,vite&theme=dark&perline=5)
-
-**Backend & API**
-
-![skillicons.dev](https://skillicons.dev/icons?i=nodejs,express,python&theme=dark&perline=3)
-
-**Database & ORM**
-
-![skillicons.dev](https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark&perline=3)
-
-**DevOps & Tools**
-
-![skillicons.dev](https://skillicons.dev/icons?i=docker,git,githubactions,vercel,figma&theme=dark&perline=5)
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superomosh94&show_icons=true&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true&border_radius=6" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superomosh94&layout=compact&theme=radical&hide_border=true&border_radius=6&langs_count=8" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=superomosh94&theme=radical&background=161B22&hide_border=true&border_radius=6" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=superomosh94&theme=react-dark&hide_border=true&area=true" width="95%">
-</p>
-
----
-
-### Let's Connect
-
-<p align="center">
-  <a href="https://matino.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:omondo94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://centrosof.vercel.app"><img src="https://img.shields.io/badge/Centrosof-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://martin-coffee-paystack.vercel.app/">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Let's Build Something Extraordinary Together</strong><br>
-  Your vision + My expertise = Magic waiting to happen
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**omondo906@gmail.com** Â· [Portfolio](https://martino49.github.io) Â· [Twitter](https://twitter.com/martinomondo)
